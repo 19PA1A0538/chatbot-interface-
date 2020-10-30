@@ -9,9 +9,12 @@ TEAM MATES:
 3.D.Surya Ratnakara Naidu (Register No:19PA5A0307)
 
 
+DOCCUMENTATION:
+
 OBJECTIVE:
 
 1.This State_Info web application takes state name as input and provides some details about that state.
+
 2.It also performs calculation and date & time operations.
 
 
