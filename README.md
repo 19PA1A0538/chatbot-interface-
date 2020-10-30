@@ -9,7 +9,7 @@ TEAM MATES:
 3.D.Surya Ratnakara Naidu (Register No:19PA5A0307)
 
 
-DOCCUMENTATION:
+DOCUMENTATION:
 
 OBJECTIVE:
 
