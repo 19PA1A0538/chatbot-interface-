@@ -43,6 +43,6 @@ REFERRED LINKS:
 
 1. https://www.w3schools.com/js/
 
-2. https://www.w3schools.com/css/default.asp
+2. https://www.w3schools.com/css/
 
-3. https://www.w3schools.com/html/default.asp
+3. https://www.w3schools.com/html/
